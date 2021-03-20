@@ -246,13 +246,14 @@ main {
           justify-content: end;
 }
 
-.cards .card .header .ditail p:first-of-type {
+.cards .card .header .ditail h2 {
   color: #f7f2f7;
   margin-bottom: 0.5rem;
   font-weight: 700;
+  font-size: 1.2rem;
 }
 
-.cards .card .header .ditail p:nth-child(2) {
+.cards .card .header .ditail p {
   color: #ee68a4;
   margin: 0;
 }
