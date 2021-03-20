@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://awesome-austin-8f4e8a.netlify.app/)
+- Solution URL: [Solution URL here](https://awesome-austin-8f4e8a.netlify.app/)
 
 ## My process
 
