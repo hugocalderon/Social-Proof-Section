@@ -40,7 +40,7 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [Sass](https://sass-lang.com/) - JS library
+- [Sass](https://sass-lang.com/) - CSS Compiler 
 
 ### What I learned
 
@@ -51,6 +51,7 @@ I have learned to convert a design provided to the Website and to try to build i
 ### Useful resources
 
 - [css-tricks.com](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This article helped me reinforce my knowledge of Flexbox.
+- [netlify.com](netlify.com) - This platform supports me in seeing my project live.
 
 ## Author
 
